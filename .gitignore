@@ -1,0 +1,4 @@
+.parcel-cache
+node_modules/
+Frontend/node_modules/
+.env
